@@ -1,4 +1,4 @@
--- | made by 0866 and Abacaxl
+-- | made by Nights
 -- | tysm unverified
 
 --[[---------Settings---------]]--
